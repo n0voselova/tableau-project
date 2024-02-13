@@ -22,6 +22,9 @@ The dashboard consists of several interlinked visualizations:
 
 ![NYC Tree Census and Income Dashboard](Tableau_Dashboard .png)
 
+![NYC Tree Census and Income Dashboard](Tableau_Dashboard.png)
+
+
 ## Process
 1. **Data Setup**: Began by setting up the data, including joining three csv files.
 2. **Initial Sketches**: Visualization ideas were first sketched on paper to plan out the design and flow of the dashboard.
