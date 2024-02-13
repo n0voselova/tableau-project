@@ -20,7 +20,7 @@ The dashboard consists of several interlinked visualizations:
 - Tree Trunk Diameter
 - Tree Status
 
-![NYC Tree Census and Income Dashboard](dashboard.png)
+![NYC Tree Census and Income Dashboard](Tableau_Dashboard .png)
 
 ## Process
 1. **Data Setup**: Began by setting up the data, including joining three csv files.
