@@ -1,17 +1,17 @@
-# NYC Tree Census and Income: Data Visualization
+# NYC Tree Census and Income: Data Visualization 🌳💼
 
 ## Project Overview
 This project presents a comprehensive visualization of the New York City Tree Census in relation to income across different boroughs. Utilizing Tableau, I merged and analyzed data from three CSV datasets to reveal insights into the urban ecosystem of Metro New York. 
 
 The aim was to create a narrative that not only showcases the distribution and health of trees across the city but also initiates a discussion on environmental equity linked to neighborhood incomes.
 
-## Key Insights
+## Key Insights 🔑
 - **Tree Count**: Metro NY boasts 683,788 trees, highlighting the city's commitment to green spaces.
 - **Tree Distribution**: A borough-wise breakdown reveals Queens leading in tree count.
 - **Income and Trees**: How does tree density correlate with the affluence of a neighborhood?
 - **Tree Health**: Contrast of tree conditions across different economic areas to discuss environmental justice.
 
-## Visualization Dashboard Components
+## Visualization Dashboard Components 📊
 The dashboard consists of several interlinked visualizations:
 - Total Trees in Metro NY
 - Trees Across Boroughs
@@ -23,7 +23,7 @@ The dashboard consists of several interlinked visualizations:
 ![NYC Tree Census and Income Dashboard](Tableau_Dashboard%20.png)
 
 
-## Process
+## Process 🛠️
 1. **Data Setup**: Began by setting up the data, including joining three csv files.
 2. **Initial Sketches**: Visualization ideas were first sketched on paper to plan out the design and flow of the dashboard.
 3. **Creating Visualizations**: Developed individual visualizations in Tableau and adjusted their aesthetic properties to enhance the narrative.
