@@ -30,30 +30,24 @@ The dashboard consists of several interlinked visualizations:
 4. **Dashboard Assembly**: Combined all visualizations into a single, cohesive dashboard, refining the layout for context and visual balance.
 5. **Tableau Public**: Published the final work to Tableau Public for broader accessibility.
 
-## Interactive Dashboard
+## Interactive Dashboard 🖱️
 For a full interactive experience and to explore the dataset in more detail, visit the dashboard on Tableau Public:
 [Tableau Dashboard](https://lnkd.in/egpRmTgX)
 
-## Tools Used
+## Tools Used 🧰
 - Tableau Desktop
 - CSV Data Handling
 - Data Analysis Techniques
 
-## Future Work
+## Future Work 🔮
 This project serves as a starting point for further exploration into the data, with potential areas of interest including:
 - Seasonal analysis of tree health
 - Longitudinal studies on the correlation between income and green spaces
 - Impact assessment of urban forestry initiatives
 
-## How to Use This Repository
+## How to Use This Repository 📚
 - `Data/`: This folder contains the raw CSV files used in the project.
 - `Visualizations/`: Here, you will find the individual Tableau worksheets used to create the dashboard.
 - `Dashboard/`: The final Tableau dashboard file is located here.
-
-## Contributing
-I welcome contributions and suggestions! If you have ideas on how to improve this visualization or additional analyses to propose, please feel free to fork this repository and submit a pull request.
-
-## Contact Information
-For any additional questions or comments, please reach out to me at [Your Email].
 
 
